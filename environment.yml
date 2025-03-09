@@ -8,4 +8,5 @@ dependencies:
   - python=3.13.2
   - requests
   - r-base
+  - r-dplyr=1.1.4
 prefix: C:\Users\Charlie\miniconda3\envs\fplpm_env
